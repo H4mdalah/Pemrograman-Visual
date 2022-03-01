@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\bin\Debug\label.exe.config
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\bin\Debug\label.exe
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\bin\Debug\label.pdb
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\obj\Debug\label.csprojResolveAssemblyReference.cache
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\obj\Debug\label.MainForm.resources
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\obj\Debug\label.csproj.GenerateResource.Cache
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\obj\Debug\label.exe
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\label\label\obj\Debug\label.pdb

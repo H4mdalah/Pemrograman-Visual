@@ -1,0 +1,6 @@
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\Koding\Koding\bin\Debug\Koding.exe.config
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\Koding\Koding\bin\Debug\Koding.exe
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\Koding\Koding\bin\Debug\Koding.pdb
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\Koding\Koding\obj\Debug\Koding.csprojResolveAssemblyReference.cache
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\Koding\Koding\obj\Debug\Koding.exe
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\Koding\Koding\obj\Debug\Koding.pdb
