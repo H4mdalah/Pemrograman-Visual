@@ -1,0 +1,8 @@
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\bin\Debug\tugas2.exe.config
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\bin\Debug\tugas2.exe
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\bin\Debug\tugas2.pdb
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\obj\Debug\tugas2.csprojResolveAssemblyReference.cache
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\obj\Debug\tugas2.MainForm.resources
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\obj\Debug\tugas2.csproj.GenerateResource.Cache
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\obj\Debug\tugas2.exe
+C:\Users\rober\OneDrive\Dokumen\SharpDevelop Projects\tugas2\tugas2\obj\Debug\tugas2.pdb
